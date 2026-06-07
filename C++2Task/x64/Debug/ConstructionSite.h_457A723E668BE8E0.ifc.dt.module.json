@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ConstructionSite.obj",
+            "outputs": [
+                "x64\\Debug\\ConstructionSite.h_457A723E668BE8E0.ifc.dt.module.json",
+                "x64\\Debug\\ConstructionSite.h_457A723E668BE8E0.ifc.dt.d.json",
+                "x64\\Debug\\ConstructionSite.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\lkeka\\source\\repos\\C++2Task\\C++2Task\\ConstructionSite.h",
+                    "source-path": "c:\\users\\lkeka\\source\\repos\\c++2task\\c++2task\\constructionsite.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

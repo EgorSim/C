@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Strategy.obj",
+            "outputs": [
+                "x64\\Debug\\Strategy.h_DCC74AD95971A3B.ifc.dt.module.json",
+                "x64\\Debug\\Strategy.h_DCC74AD95971A3B.ifc.dt.d.json",
+                "x64\\Debug\\Strategy.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\lkeka\\source\\repos\\C++2Task\\C++2Task\\Strategy.h",
+                    "source-path": "c:\\users\\lkeka\\source\\repos\\c++2task\\c++2task\\strategy.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

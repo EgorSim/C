@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ConstructionPhase.obj",
+            "outputs": [
+                "x64\\Debug\\ConstructionPhase.h_605865FF2C4D5F16.ifc.dt.module.json",
+                "x64\\Debug\\ConstructionPhase.h_605865FF2C4D5F16.ifc.dt.d.json",
+                "x64\\Debug\\ConstructionPhase.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\lkeka\\source\\repos\\C++2Task\\C++2Task\\ConstructionPhase.h",
+                    "source-path": "c:\\users\\lkeka\\source\\repos\\c++2task\\c++2task\\constructionphase.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

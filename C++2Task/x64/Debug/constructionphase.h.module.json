@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ConstructionPhase.h.obj",
+            "outputs": [
+                "C:\\Users\\lkeka\\source\\repos\\C++2Task\\C++2Task\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\lkeka\\source\\repos\\C++2Task\\C++2Task\\x64\\Debug\\ConstructionPhase.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ConstructionPhase.h",
+                    "source-path": "c:\\users\\lkeka\\source\\repos\\c++2task\\c++2task\\constructionphase.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
